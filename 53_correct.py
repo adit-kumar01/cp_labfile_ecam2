@@ -5,7 +5,7 @@ if (a>0):
     if (a>10):
       print(" number is greater than 10")
       if (a>100):
-          
+          print (" number is greater than 100")
           if (a>1000):
               print(" number is greater than 1000")
-          print (" number is greater than 100")
+          
