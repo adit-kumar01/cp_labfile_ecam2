@@ -73,6 +73,6 @@ thisset.clear()
 print(thisset, "\n")
 
 # delete method
-Set5 = {"apple", "kiwi"}
+set5 = {"apple", "kiwi"}
 del set5
 print(set5)
